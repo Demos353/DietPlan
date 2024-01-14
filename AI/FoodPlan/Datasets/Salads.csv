@@ -1,0 +1,595 @@
+calories,carb,fat,name,protein,sugar,type
+82,14.3,2.2,Two Potato Salad with Mustard Chive Dressing,1.8,2.8,Salads
+101,16.5,3.1,Caesar Potato Salad,2.2,0.9,Salads
+135,23.5,2.2,Mexican Pasta Salad,5.9,2.1,Salads
+156,15.7,9.0,Spinach and Cranberry Salad,6.5,10.2,Salads
+113,6.8,8.5,Spinach Strawberry Salad,4.4,1.9,Salads
+121,20.0,3.0,Warm Potato Salad Recipe,4.6,2.9,Salads
+101,16.3,3.1,Vegan Turmeric Quinoa Power Bowls,3.2,0.7,Salads
+66,16.9,0.2,Citrus Salad with Star Anise,0.7,14.4,Salads
+185,1.7,14.4,Arugula and Fontina Frittata,12.2,1.0,Salads
+152,5.6,12.1,Fennel and Celery Salad Dama Bianca,6.0,2.6,Salads
+49,4.5,2.8,Creamy spinach,3.0,1.4,Salads
+190,29.1,6.8,Stir Fried Garlic Chives with Chile,3.4,0.0,Salads
+46,3.9,3.1,Asparagus with Olive and Orange Butter,2.1,2.0,Salads
+37,7.7,1.5,Cherry Tomato and Lemon Salad,1.0,3.5,Salads
+242,39.6,5.8,Eggplant Tartines with Hummus and Arugula,8.6,3.1,Salads
+62,8.6,3.0,Carrots with Shallots Sage and Thyme,1.0,4.1,Salads
+82,8.9,5.1,Carrot Cabbage Slaw with Cumin Vinaigrette,1.2,4.6,Salads
+136,21.6,2.2,Dijon Cilantro Tuna Salad on Whole Grain Bread,7.7,5.8,Salads
+117,4.4,8.2,Oven Roasted Plum Tomatoes,6.6,1.3,Salads
+112,11.5,7.4,Grapefruit and Avocado Salad with Ginger Cassis Dressing,0.9,3.8,Salads
+100,13.2,5.3,Beet and Tangerine Salad with Cranberry Dressing,1.0,10.1,Salads
+411,7.0,43.0,Radicchio and Haricot Vert Salad with Candied Walnuts,1.6,4.7,Salads
+100,6.4,4.5,Tarragon Crab Salad,8.7,1.3,Salads
+81,8.2,5.4,Fennel and Carrot Slaw with Olive Dressing,1.1,3.9,Salads
+48,4.4,3.3,Radicchio Red Cabbage and Tomatoes with Orange Vinaigrette,1.1,2.2,Salads
+300,35.2,17.9,Radicchio and Arugula Salad with Dates Hazelnuts and Feta,4.2,29.9,Salads
+145,15.6,8.7,Tabouleh,2.8,1.4,Salads
+74,13.9,0.5,Black Bean Salad,4.2,1.2,Salads
+34,8.0,0.1,Cucumber Watermelon Salad,0.6,6.5,Salads
+112,10.3,6.1,First Class Bleu Cheese Salad,5.0,3.0,Salads
+152,11.2,10.0,Elegant Endives,6.4,7.3,Salads
+184,6.8,13.5,Chicken and Mango Salad with Ginger Orange Dressing,9.3,5.5,Salads
+122,4.2,7.6,Chef Salad,9.7,1.1,Salads
+106,13.2,4.4,Spanish White Beans with Spinach,4.6,0.9,Salads
+63,8.8,1.6,Napa Cabbage Salad with Buttermilk Dressing,3.8,6.6,Salads
+140,2.7,14.1,Red Salad with Champagne Vinaigrette,1.1,0.4,Salads
+108,9.6,8.2,Roasted Acorn Squash with Chile Vinaigrette,0.8,0.2,Salads
+99,16.8,3.8,Maple Orange Glazed Carrots,0.8,11.9,Salads
+125,2.1,7.9,Asian Tuna Salad,11.6,0.8,Salads
+184,11.0,10.8,Sweet potato bacon and egg salad,10.9,2.5,Salads
+69,4.4,3.4,Asian Style Salad,5.9,2.2,Salads
+216,16.8,15.8,Raw Kale Salad with Balsamic,4.9,10.5,Salads
+337,5.1,34.9,Curry Spinach Salad,3.0,0.2,Salads
+148,8.0,12.7,Brussel Sprouts in Duck Fat,2.9,1.9,Salads
+90,11.7,3.8,Red Potato Salad,2.8,1.2,Salads
+188,5.1,17.5,Arugula Salad,4.6,2.1,Salads
+42,3.9,2.4,Spicy Sauteed Spinach,2.9,0.5,Salads
+144,7.9,12.8,Orange Fennel and Avocado Salad,1.2,3.7,Salads
+20,3.4,0.4,Very Green Salad,1.8,1.1,Salads
+44,3.5,0.4,Traditional Indian Raita,6.8,2.6,Salads
+103,12.7,4.9,Wild Rice Salad with Summer Vegetables,2.6,3.0,Salads
+160,15.7,8.4,Lentil and Walnut Salad,7.1,1.3,Salads
+159,22.9,6.4,Quinoa Spinach Salad with Lemon Vinaigrette,4.0,6.4,Salads
+170,23.6,5.9,Lime Splashed Chickpea Salad,7.2,4.2,Salads
+94,9.1,5.1,Edamame Slaw,4.5,3.7,Salads
+91,12.2,3.3,Sun Dried Tomato & Lentil Salad,4.1,1.5,Salads
+61,4.3,4.9,Cucumber Avocado Salad,1.1,1.9,Salads
+163,13.8,10.5,Veggies in Peanut Sauce,6.2,4.6,Salads
+112,16.5,3.3,Sweet Potato & Lentil Salad,4.3,3.0,Salads
+71,4.2,4.3,Buffalo Chicken Salad,4.5,1.4,Salads
+233,8.6,17.2,Fuji Apple Chicken Salad,13.0,1.8,Salads
+283,11.4,18.8,Oven Fried Panko Chicken,16.1,1.0,Salads
+93,16.0,1.6,Bean and Sweet Potato Salad,4.6,1.6,Salads
+69,1.8,0.9,Dijon Dill and Cottage Cheese Tuna Salad,13.6,1.0,Salads
+78,6.6,4.3,Pineapple Shrimp Salad,4.3,2.9,Salads
+42,5.0,2.3,Cucumber Salad,0.7,3.0,Salads
+83,6.3,6.2,Avocado Strawberry and Spinach Salad,1.4,2.4,Salads
+237,35.2,6.9,Pasta Salad,8.3,2.5,Salads
+82,9.0,5.1,Seaweed Salad,1.0,5.4,Salads
+62,5.4,3.8,Tofu Salad,2.2,2.6,Salads
+129,23.0,1.6,Quinoa and Black Beans,6.7,0.8,Salads
+191,41.2,1.2,Simple Pasta Salad,5.1,1.6,Salads
+143,10.2,7.3,Loaded Chicken Taco Salad with Cilantro Lime Dressing,9.3,1.7,Salads
+37,3.4,1.8,Green Salad with Olives,3.0,0.9,Salads
+35,4.4,1.8,Easy Lemon Dill Cucumbers,0.9,2.8,Salads
+122,14.1,5.2,Whole Wheat Bread and Vegetable Salad,5.8,4.7,Salads
+63,10.2,2.3,Mixed Greens with Sun Dried Tomato Dressing,3.1,3.9,Salads
+116,5.1,7.7,Peach Heirloom Tomato and Burrata Salad,5.9,4.0,Salads
+323,5.1,32.8,Homemade Creamy Caesar Dressing,4.2,1.4,Salads
+96,13.0,4.3,Make Ahead Mediterranean Salad,2.3,5.0,Salads
+90,11.4,4.8,Garlic & Lemon Butternut Squash Noodles,2.1,2.0,Salads
+84,12.7,3.4,Spiced Eggplant Lentil Salad with Mango,2.3,7.8,Salads
+47,10.1,1.0,Apple Celery Salad,0.4,7.2,Salads
+46,3.7,3.3,Tomato and Radish Salad,1.0,2.1,Salads
+50,7.7,2.0,Simple Coleslaw,1.2,4.5,Salads
+79,7.4,4.5,Corn Zucchini Skillet,3.8,3.3,Salads
+212,10.8,14.7,Easy Pea Salad,8.0,5.2,Salads
+83,8.4,3.3,Peach Caprese Salad,5.1,5.7,Salads
+84,14.3,2.5,Buckwheat Beet & Citrus Salad,2.3,3.4,Salads
+124,19.0,4.2,Lentil and Rice Salad,2.8,0.9,Salads
+77,10.6,2.7,Mexican chickpea salad,3.6,1.0,Salads
+101,11.4,5.4,Bacon Broccoli Salad,4.3,5.2,Salads
+145,5.3,13.4,Lemon Sesame Asparagus,3.1,1.6,Salads
+30,4.1,0.3,Simple Cottage Cheese Salad,3.1,2.7,Salads
+59,4.8,2.8,Zucchini Pasta,4.1,3.5,Salads
+99,8.8,4.2,Tuna Turmeric Salad,7.3,2.5,Salads
+17,3.7,0.1,Tossed Tomatoes Cucumber and Red Peppers,0.7,2.1,Salads
+85,19.7,0.1,Pickled Red Onions with Cilantro,0.6,16.9,Salads
+152,11.4,10.3,Crab Salad,3.1,2.1,Salads
+81,8.0,5.0,Cold Mediterranean Quinoa Salad,1.7,1.4,Salads
+78,5.6,5.1,Garlic Green Beans with Tofu,3.6,2.4,Salads
+207,5.3,14.8,Tomato and Arugula Salad with Grilled Steak and Portabella Mushrooms,13.5,2.9,Salads
+145,2.7,10.8,Zesty Chicken Cobb Salad,9.4,0.8,Salads
+104,9.6,7.2,Beet Mushroom and Avocado Salad,2.4,2.6,Salads
+62,4.4,4.8,Spinach Tomato Salad,2.0,1.3,Salads
+164,13.5,11.0,Broccoli Salad,5.2,2.5,Salads
+100,8.5,7.4,Kale Avocado Salad,2.8,1.4,Salads
+112,3.9,7.4,Chopped Chicken Salad,8.3,1.4,Salads
+132,3.8,10.1,Taco Salad,7.2,1.0,Salads
+102,12.2,5.1,Pear Gorgonzola and Pecan Salad,3.3,7.4,Salads
+174,5.4,7.5,Classic Tuna Salad,21.2,3.1,Salads
+74,4.6,6.0,Spinach salad,2.2,1.0,Salads
+91,13.3,3.7,Potatoes and Peppers,1.6,2.0,Salads
+119,1.8,7.6,Keto Tuna Salad,11.1,0.7,Salads
+44,11.0,0.3,Fruit salad,0.7,7.4,Salads
+92,3.2,4.8,Tuna and Avocado salad,10.2,0.4,Salads
+107,12.8,4.8,Seasoned Mashed Chickpeas,4.3,0.3,Salads
+113,7.5,9.7,Avocado salad,1.6,1.3,Salads
+80,3.1,3.1,Quick Buffalo Chicken Salad,10.0,1.9,Salads
+87,8.3,5.6,Brussels Sprout Slaw,3.1,2.1,Salads
+78,6.5,5.8,Green Beans with Olive Oil,1.7,3.0,Salads
+32,2.9,0.3,Cucumber Tomato Salad with Tuna,4.9,1.6,Salads
+60,4.4,4.8,Cucumber Avocado Salad,1.1,1.2,Salads
+124,1.7,5.3,Lime Chicken Salad,16.6,0.4,Salads
+89,22.9,0.3,Spicy Plantain Salad,1.1,10.8,Salads
+164,16.3,9.9,White Bean & Barley Salad,3.1,0.6,Salads
+93,11.9,3.9,Braised Potato Salad with White Beans,3.1,0.7,Salads
+81,12.4,2.9,Super Skinny Mother Noodle,1.9,2.6,Salads
+145,14.5,6.1,Turkey Taco Salad,8.3,1.4,Salads
+91,19.3,0.8,Soba Salad,3.5,1.6,Salads
+73,11.1,2.9,Tabbouleh Salad,2.1,1.6,Salads
+54,5.4,2.8,Keto Cauliflower Potato Salad,2.8,2.3,Salads
+123,21.0,2.8,Quinoa and Grilled Pepper Salad,4.4,0.1,Salads
+67,4.8,3.6,Veggie & chicken salad,4.4,2.6,Salads
+83,6.5,3.7,Tuna and Ranch Garden Salad Sandwich,6.4,2.1,Salads
+47,5.4,2.6,Portobello Mushroom Caps and Veggies,1.7,2.7,Salads
+92,12.1,3.4,Country Cottage Potato Salad,3.7,2.0,Salads
+148,9.0,8.8,Thousand Island Slaw with Chicken,7.9,0.7,Salads
+140,12.1,9.3,Broccoli with Toasted Garlic Crumbs,3.5,1.9,Salads
+109,15.5,5.4,Charred Corn Salad with Basil and Tomatoes,2.5,3.8,Salads
+65,3.2,5.3,Wilted Watercress with Garlic,2.2,0.3,Salads
+50,12.8,0.2,Healthy Fruit Salad,0.6,10.5,Salads
+57,3.9,4.2,Spinach Recipe,2.8,0.4,Salads
+61,12.4,0.4,Southwestern Salad with Black Beans,3.4,1.6,Salads
+85,21.8,0.2,Cantaloupe Salad with Lime Mint and Ginger,1.0,18.7,Salads
+123,15.3,6.3,Salt and Vinegar Potato Salad,1.7,1.1,Salads
+81,6.9,4.4,Summer Salad with Grilled Shrimp,5.8,3.3,Salads
+201,3.5,17.6,Pizza Salad,7.4,2.1,Salads
+171,26.9,4.1,Southwest Chickpea Salad,8.4,4.2,Salads
+73,3.0,3.8,Veggie Egg Salad,6.7,1.7,Salads
+53,5.7,2.9,Brazilian Collard Greens,3.0,0.5,Salads
+132,3.9,10.4,Celery and Sesame Tofu Salad,7.8,0.6,Salads
+36,4.4,2.2,Israeli Salad,0.8,2.2,Salads
+126,16.3,5.3,Bruschette with Chickpea Pure and Arugula,5.5,0.8,Salads
+57,9.8,2.0,Rutabaga and Carrot Pure,1.0,5.7,Salads
+54,6.1,3.3,Gazpacho Green Beans,1.5,3.0,Salads
+158,5.0,14.5,Cucumber and Radish Salad,3.3,1.5,Salads
+80,6.9,5.8,Haricots Verts with Herb Butter,1.8,3.1,Salads
+109,8.8,8.4,Carrot Avocado Salad,1.1,3.5,Salads
+117,2.8,4.8,Whitefish Salad,15.0,1.7,Salads
+47,6.0,2.4,Cauliflower Salad,1.8,2.7,Salads
+136,9.1,10.0,VegetarianQuorn Chicken and Avocado Salad with Lime and Cilantro,4.9,1.0,Salads
+102,10.1,6.1,Salad with Homemade Creamy Sesame Dressing,3.5,5.2,Salads
+149,27.5,1.0,Brown Rice and Black Bean Salad,8.7,3.2,Salads
+141,25.6,1.1,an Salad,8.7,1.9,Salads
+42,10.8,0.1,Healthy Ingredient Fruit Salad,0.5,7.8,Salads
+69,11.7,2.6,Wilted Spinach and Corn Salad,2.0,2.3,Salads
+172,12.7,12.8,Lemon Cous Cous Salad,3.1,1.3,Salads
+81,6.9,6.3,Lebanese Fresh Thyme Tomato Salad,1.0,2.7,Salads
+137,8.6,10.8,Tossed Salad with Artichoke Hearts and Chickpeas,3.0,2.5,Salads
+232,14.4,16.1,Kale Anchovy Salad,9.3,2.1,Salads
+82,3.6,7.5,Zucchini with Thyme,1.2,2.4,Salads
+88,5.9,6.9,Spiced Peppers and Eggplant,1.1,3.4,Salads
+129,8.1,10.7,Lemon and Avocado Kale Salad,2.9,1.4,Salads
+265,35.8,10.6,Cold Peanut Noodle Salad,7.7,3.8,Salads
+114,19.5,3.0,Quinoa Bean Salad,4.1,8.3,Salads
+43,10.2,0.2,Mediterranean Salad,1.2,6.6,Salads
+139,7.1,11.0,Honey Lime Chicken and Avocado Salad,4.6,3.9,Salads
+209,20.3,13.0,Charred Chickpea and Corn Salad,4.4,2.5,Salads
+257,17.9,19.3,Roasted Broccoli Quinoa Salad,5.2,3.5,Salads
+284,11.9,24.9,Raw Broccoli Salad,8.1,2.0,Salads
+163,8.5,13.9,Spinach Salad with Cashews,3.9,2.6,Salads
+83,9.7,4.3,Quinoa Tabbouleh,2.1,1.4,Salads
+70,7.7,4.4,Delicata Squash and Roasted Mushrooms,1.7,1.9,Salads
+104,5.0,9.0,Spicy Red Pepper and Eggplant Confit,0.9,2.2,Salads
+75,9.4,2.1,Mexican Bean Salad,5.0,1.9,Salads
+81,13.3,3.1,Broccoli and Apple Salad,1.4,9.7,Salads
+67,5.9,4.5,Radish Salad with Mint and Pistachios,1.8,2.5,Salads
+169,10.0,13.8,Three Bean Salad,2.8,1.5,Salads
+141,21.5,3.2,Black Bean Lentil Salad with Cumin Lime Dressing,7.7,1.6,Salads
+128,15.1,6.4,Cabbage Salad,3.7,9.6,Salads
+110,5.5,9.6,Leafy Green and Vegetable Salad With Lemon Tahini Dressing,1.7,1.6,Salads
+78,8.4,2.1,Chicken Burrito Bowl,7.3,1.2,Salads
+104,6.1,7.5,Tofu peanut lettuce wraps,4.5,2.9,Salads
+39,6.7,0.3,High Potassium Fruit Salad,3.3,5.5,Salads
+15,3.0,0.1,Tomato Salad,0.6,1.9,Salads
+132,11.0,9.4,Roasted Green Beans and Cashews,3.6,3.8,Salads
+138,5.0,11.0,Tomato & Basil Salad,5.4,2.9,Salads
+117,6.4,8.7,Berry Shake,5.1,3.0,Salads
+70,5.9,4.9,Lemony Spinach Salad,2.1,2.4,Salads
+181,13.5,13.0,Arugula Salad with Grapefruit dressing,5.0,9.6,Salads
+149,3.3,15.0,Mesclun Salad with Shallot Vinaigrette,1.1,1.2,Salads
+195,23.3,7.5,Chickpea Salad with Lemon Parmesan and Fresh Herbs,10.0,4.1,Salads
+96,5.8,2.6,Tuna Apple Salad,13.0,4.1,Salads
+130,22.4,4.0,Pomegranate Salad with Figs & Pumpkin Seeds,3.6,16.8,Salads
+206,27.6,9.7,Creamy Pasta Salad,2.8,2.2,Salads
+169,9.3,12.5,Spinach & Strawberry Salad,5.8,1.7,Salads
+119,19.6,2.1,Veggie Tuna Mac,7.0,1.3,Salads
+153,4.3,10.5,Zucchini Melon Salad,11.0,2.9,Salads
+111,11.3,7.0,Currant Avocado Salad with Almond Balsamic Vinaigrette,2.9,4.6,Salads
+38,2.9,0.5,Cottage Cheese Salad,5.3,2.3,Salads
+38,4.5,2.1,Winter White Salad,1.4,1.7,Salads
+53,7.7,2.4,Roasted Garlic Green Beans,1.9,3.1,Salads
+58,7.3,3.1,Cold Green Bean Salad,0.8,4.7,Salads
+61,5.1,4.4,Mixed Greens with Sliced Cucumber and Avocado,1.1,1.0,Salads
+87,9.1,5.4,Asian Pear and Frise Salad,0.9,4.9,Salads
+176,6.6,15.4,Strawberry and Arugula Salad with Hazelnut Dressing,4.6,3.7,Salads
+107,7.5,5.1,Apple Salad,8.8,4.9,Salads
+52,8.5,1.0,Meditteranean Salad,2.8,1.4,Salads
+85,13.4,3.6,Waldorf ish Salad,1.6,8.7,Salads
+81,4.5,4.4,Zesty Lime Shrimp Avocado Salad,6.8,1.2,Salads
+19,3.2,0.1,Cucumber Salad,0.6,1.5,Salads
+256,18.8,17.7,Tomato Peach and Goat Cheese Salad,8.6,4.4,Salads
+134,5.8,9.4,Bulgar Salad with Grilled Chicken and Parsley Pesto,7.4,1.6,Salads
+176,3.0,8.5,Tarragon and Dijon Chicken Salad,20.8,0.9,Salads
+86,11.3,2.3,Chickpea Walnut & Cucumber Yogurt,6.2,4.6,Salads
+123,7.3,8.4,Tofu and Veggies in Peanut Sauce,6.3,4.4,Salads
+93,6.6,6.5,Warm Bacon Keto Broccoli Salad,4.1,1.8,Salads
+208,6.2,19.6,Arugula and Avocado Salad With Shaved Parmesan,4.3,1.1,Salads
+123,19.9,2.8,Chickpea Quinoa Salad,5.2,1.2,Salads
+175,3.3,15.4,Caprese Salad,6.6,1.8,Salads
+47,2.2,3.0,Cucumbers and Egg Salad,2.9,1.2,Salads
+134,4.0,8.3,Chicken and avocado salad,11.5,0.5,Salads
+330,20.8,28.5,Saut ed Cabbage,0.7,19.5,Salads
+128,7.6,11.3,Lemon Avocado Salad,1.7,1.2,Salads
+80,10.5,4.3,Classic Glazed Carrots,0.9,6.7,Salads
+41,5.8,1.9,Lebanese White Cabbage Salad,1.2,3.1,Salads
+168,30.9,3.3,Rice Noodle Salad With Mango,4.0,4.0,Salads
+99,16.3,3.2,Potato salad,1.8,2.2,Salads
+65,2.7,5.7,Lettuce Cucumber Walnut Salad,1.5,1.2,Salads
+60,8.1,3.0,Sweet Creamy Coleslaw,1.1,4.8,Salads
+104,3.1,3.7,Curry Tuna Salad,15.0,1.8,Salads
+155,3.5,13.5,Farmers Market Salad with Aged Gouda and Roasted Portabellas,6.2,1.6,Salads
+193,12.6,14.6,Cranberry and Pumpkin Seed Spinach Salad,5.7,8.3,Salads
+55,6.7,2.1,Sushi Salad,1.5,1.1,Salads
+66,4.9,4.1,Asian Tofu Salad,3.5,3.1,Salads
+74,5.9,5.9,Avocado and Veggie Salad,1.3,1.6,Salads
+114,11.3,5.3,Tuna and Avocado Salad,6.5,1.7,Salads
+89,14.4,2.3,Two Bean Salad,3.6,1.7,Salads
+89,6.8,6.6,Avocado Coleslaw,1.6,0.2,Salads
+71,13.1,1.0,Spinach & Chickpea Salad with Lemon Fig Dressing,4.2,4.1,Salads
+90,11.7,3.5,Lemony Green Beans and Peas,4.0,4.0,Salads
+82,7.2,5.8,Green Beans with Lemon and Pine Nuts,2.4,3.2,Salads
+46,3.3,3.6,Sauteed Zucchini Ribbons,1.2,2.4,Salads
+120,13.5,6.2,Avocado & White Bean Salad,4.1,1.0,Salads
+70,6.8,4.9,Ole Salad,1.4,2.1,Salads
+111,3.5,5.1,Protein Salad,13.6,1.5,Salads
+166,7.3,14.0,Shaved brussels sprouts salad,5.2,1.9,Salads
+115,11.1,7.7,Orange and Pomegranate Salad,2.5,7.3,Salads
+54,5.3,3.4,Sprout Salad,1.8,1.6,Salads
+56,4.0,4.5,Saut ed Cherry Tomatoes with Garlic and Basil,0.9,2.5,Salads
+22,4.7,0.2,Beetroot Salad,0.9,3.0,Salads
+141,17.8,6.8,Roasted Vegetable & Quinoa Harvest Bowls,3.8,4.5,Salads
+142,17.9,5.7,Quick White Bean Salad,6.2,2.3,Salads
+66,4.6,5.4,Israeli Salad Recipe,0.8,2.8,Salads
+81,6.1,6.3,Tofu tomatoes and avocado salad,1.8,2.1,Salads
+100,9.0,7.1,Herb roasted carrots with mustard,1.0,4.3,Salads
+173,5.1,13.4,Spinach Salad With Warm Onions and Crispy Salami,8.4,3.4,Salads
+146,8.7,12.4,Avocado Salad with Croutons,1.9,1.8,Salads
+79,6.3,5.3,Watermelon Arugula and Feta Salad,2.4,4.9,Salads
+21,4.3,0.2,Deli Cucumber Salad,0.6,3.0,Salads
+69,3.8,6.0,Spring Radish Salad,0.9,1.7,Salads
+60,4.8,2.6,Green Bean Healthy Tuna Salad,5.3,2.1,Salads
+151,4.3,8.4,Crab Cakes,14.3,0.7,Salads
+33,4.3,1.4,Spring Salad with Buttermilk Herb Dressing,1.8,2.2,Salads
+105,2.5,7.0,Egg and Lettuce Salad,7.3,0.5,Salads
+78,3.7,4.8,Chicken Philly Salad,5.4,1.9,Salads
+65,9.1,3.0,Garlic Balsamic Green Beans,2.1,3.5,Salads
+154,8.2,12.9,Green Beans with Crushed Almonds,4.3,3.2,Salads
+74,6.6,2.3,Power Chicken Hummus Bowl,9.3,0.5,Salads
+23,3.3,1.0,Grilled Romaine with Lemon,1.2,1.2,Salads
+101,8.1,7.9,Sundried Tomato and Avocado Chopped Salad,1.6,1.3,Salads
+68,7.9,4.4,Easy Cucumber Lemon Salad,1.1,2.3,Salads
+153,13.7,10.1,Easy Asian Quinoa Slaw,3.3,3.9,Salads
+84,6.9,6.3,Simple Mixed Greens Salad,1.7,2.1,Salads
+56,2.2,4.2,Caesar Salad with Homemade Dressing,2.7,0.7,Salads
+199,14.8,15.0,Citrus Spinach Salad,4.3,9.7,Salads
+108,13.1,5.8,Blueberry Pomegranate Dressing,2.5,8.5,Salads
+219,7.6,18.8,King Crab Salad,7.2,3.8,Salads
+150,25.9,2.5,Spicy Southwestern Salad with Avocado Dressing,7.6,3.0,Salads
+108,20.1,2.4,Lemony Fusilli with Chickpeas Raisins and Spinach,4.4,4.8,Salads
+105,3.3,5.9,Skinny Egg Salad,9.3,2.0,Salads
+113,9.5,7.6,Shrimp Avocado Mango Salad,3.8,4.8,Salads
+84,15.5,2.8,Blueberry Peach Salsa,0.8,7.4,Salads
+77,6.8,3.3,Cilantro Crab & Corn Stuffed Peppers,5.8,2.2,Salads
+112,18.7,2.5,Black Bean and Corn Salad,4.3,0.9,Salads
+72,6.1,1.9,BBQ Chicken Salad,8.2,2.7,Salads
+106,12.1,6.5,Creamed Corn,2.3,4.2,Salads
+493,31.6,38.5,Croutons,6.6,2.8,Salads
+128,2.5,8.8,Deviled Egg Salad,9.1,1.0,Salads
+98,12.0,5.9,Mango Salsa,1.1,7.6,Salads
+195,15.6,11.1,Mexican Beef Taco Salad,7.9,0.9,Salads
+53,11.2,0.7,Spinach Ham and Pear Salad,2.4,6.5,Salads
+67,9.5,3.4,Mango Strawberry Arugula Salad,1.3,6.1,Salads
+23,4.8,0.2,Simple gazpacho,1.0,2.9,Salads
+138,3.6,9.8,Egg Salad with Lemon and Fennel,8.3,1.5,Salads
+125,14.8,7.6,Vegan Waldorf Salad,2.3,5.9,Salads
+41,3.7,2.7,Korean Style Romaine,1.6,1.2,Salads
+148,13.0,10.7,Sauteed Fennel with Almonds Raisins and Saffron,2.6,6.7,Salads
+143,7.9,12.4,Grilled Onion Salad,1.0,3.5,Salads
+120,7.9,9.1,Roasted Beet and Feta Gratin with Fresh Mint,2.8,5.7,Salads
+320,8.5,32.0,Celery Root and Pecan Salad,3.2,2.1,Salads
+224,2.4,15.7,Flank Steak Salad with Chimichurri Dressing,17.6,0.7,Salads
+17,3.3,0.2,Cucumbers with Wasabi and Rice Vinegar,0.6,2.5,Salads
+75,19.2,0.4,Mango Blueberry and Ginger Fruit Salad,0.8,14.7,Salads
+221,25.1,11.5,Quinoa Salad with Hearts of Palm,4.5,6.6,Salads
+252,31.0,10.4,Curried Red Lentil Kohlrabi and Couscous Salad,9.7,1.5,Salads
+70,7.4,3.4,Sugar Snap Peas with Tarragon Butter,2.8,0.2,Salads
+121,19.3,4.0,Apple Cranberry & Almond Slaw,4.5,14.2,Salads
+85,7.8,5.3,Vegan Cauliflower Eggy Salad,3.7,2.2,Salads
+54,1.8,0.6,Cherry Tomato Dill and Tuna Salad,10.6,1.3,Salads
+87,4.3,2.9,Turkey & Cottage Cheese Salad,11.1,2.0,Salads
+122,20.7,3.3,Cranberry Quinoa Salad,3.8,5.0,Salads
+156,9.8,11.9,Baby Kale and Blackberry Salad,5.0,3.8,Salads
+86,8.0,5.8,Nutribullet Veggie Cobb,2.0,2.6,Salads
+103,9.0,7.5,Herb roasted carrots with mustard,1.0,4.3,Salads
+103,4.5,8.9,Spinach Sautee With Brown Butter & Garlic,3.4,0.6,Salads
+74,4.6,6.0,Easy Spinach and Scallion Salad,2.2,1.0,Salads
+83,6.5,3.7,Tuna and Ranch Garden Salad,6.4,2.1,Salads
+11,1.9,0.2,Boiled Kale,0.9,0.5,Salads
+105,13.1,5.4,Beetroot Salad with Pomegranate and Pistacio,2.5,10.0,Salads
+28,5.6,0.1,Dutch Cucumber Salad,0.5,4.5,Salads
+196,5.2,19.4,nute Quick Boiled Spinach,2.3,0.6,Salads
+52,3.7,4.0,Cool Summer Cucumber and Tomato Toss,0.7,2.6,Salads
+159,7.6,14.4,Green Beans with Crisp Shallots Chile and Mint,1.7,3.4,Salads
+88,1.7,2.5,Cheesy Chicken and Spinach,14.0,1.0,Salads
+79,4.2,3.9,Salmon Beet Salad,7.3,2.6,Salads
+164,3.0,12.6,Egg Salad,9.3,1.1,Salads
+103,3.9,9.4,Lemon Parmesan Salad,2.1,1.1,Salads
+66,4.4,5.2,Arugula Salad,1.2,3.1,Salads
+152,9.5,12.3,Squash and Spinach Salad with Almond Dressing,3.5,1.8,Salads
+206,4.5,16.5,Chicken and Watercress Salad with Almonds and Feta,10.0,3.3,Salads
+72,3.4,6.0,Zucchini Carpaccio Salad,2.2,2.2,Salads
+122,8.5,9.5,Celery Root Pure with Truffle Butter,1.4,1.2,Salads
+56,4.3,3.3,Zucchini for Lunch,2.7,2.8,Salads
+142,4.9,13.0,Lacinato Kale and Ricotta Salata Salad,3.2,0.4,Salads
+111,11.6,7.1,Swiss Chard with Raisins and Almonds,2.4,6.9,Salads
+203,4.1,17.4,Spanish Anchovy Fennel and Preserved Lemon Salad,8.6,1.4,Salads
+119,7.8,9.2,Braised Swiss Chard with Currants and Feta,2.8,5.6,Salads
+35,3.4,2.3,Minted Green Salad,1.0,1.6,Salads
+108,9.7,7.8,Mango Salad,0.8,7.9,Salads
+36,3.3,2.4,Endive with Walnut Vinaigrette,1.2,0.2,Salads
+127,5.4,12.0,Napa Cabbage Tomato and Avocado Salad,1.2,1.9,Salads
+56,5.9,3.2,Fennel Tomato and Feta Salad,1.9,3.4,Salads
+395,3.2,42.7,Collard Green and Radish Slaw with Crispy Shallots,0.9,1.1,Salads
+161,11.2,11.3,Spicy Green Salad with Manchego and Pears,4.9,6.5,Salads
+120,9.7,8.7,Beet and Carrot Salad with Coriander and Sesame Salt,1.8,4.9,Salads
+104,4.2,8.2,Romaine Salad with Bacon and Hard Boiled Eggs,3.8,1.8,Salads
+80,3.2,5.9,Iceberg and Watercress Salad with Blue Cheese Dressing,4.0,1.3,Salads
+62,4.3,4.9,Fattoush Salad,1.4,1.8,Salads
+273,16.5,19.7,Arugula Salad with Lemon and Parmesan,8.3,1.3,Salads
+44,3.1,3.4,Zucchini Ribbons with Tarragon,1.2,2.4,Salads
+71,4.9,5.6,Grilled Zucchini Pepper Salad,1.1,4.0,Salads
+169,17.1,11.2,Dandelion Greens with Hot Olive Oil Dressing,3.3,7.6,Salads
+51,2.8,4.2,Zucchini with Vinegar and Mint,1.1,2.2,Salads
+100,4.8,8.8,Roasted Red Peppers and Cauliflower with Caper Vinaigrette,1.5,2.3,Salads
+109,16.1,4.4,Warm New Potato Salad with Grainy Mustard,2.0,0.9,Salads
+173,5.4,16.0,Spinach Salad with Grilled Eggplant and Feta,3.9,2.5,Salads
+101,8.3,7.0,East West Slaw,3.1,3.8,Salads
+72,10.2,3.8,Avocado Citrus Salad with Mint,1.1,6.6,Salads
+69,4.0,3.9,Cucumber Avocado Salad with Tuna,5.7,1.0,Salads
+105,5.3,7.5,Zesty Kale Cucumber Salad,5.6,1.6,Salads
+38,8.9,0.2,Fresh Jicama Salad,0.8,1.8,Salads
+165,21.1,6.5,Farro & Pea Salad with Lemon Dressing,6.4,3.5,Salads
+136,5.2,11.2,Warm Cheese Bacon and Pear Salad with Chicken Modified,4.4,2.5,Salads
+147,8.5,11.9,Green Beans with Crushed Almonds,4.3,3.3,Salads
+27,3.7,0.6,Cherry Tomato Dill & Anchovy Salad,2.2,2.5,Salads
+80,7.7,5.6,Pan Fried Fennel,1.4,3.7,Salads
+175,5.6,15.4,Blue cheese and Veggie Salad,3.9,3.6,Salads
+89,7.7,3.8,Garbanzo Salad,6.9,1.2,Salads
+136,8.5,10.0,Nutty Spinach Salad,4.7,3.1,Salads
+159,21.8,5.0,Bavarian Green Beans,5.6,4.2,Salads
+58,6.2,3.0,Cauliflower Salad,2.6,2.8,Salads
+94,7.6,6.7,Kale Salad,3.2,2.7,Salads
+90,7.5,3.3,Seared Salmon with Watercress and Warm Orange Dressing,8.2,2.7,Salads
+63,6.0,3.8,Cumin Cabbage,1.2,3.2,Salads
+81,7.3,5.1,Blueberry Kale Salad,3.1,3.6,Salads
+58,7.5,3.1,Mixxed Greens with Tomato Herb Dressing,1.0,4.5,Salads
+97,9.3,6.2,Creamy and Colorful Raw Kale Salad,3.9,3.1,Salads
+118,16.9,5.0,Roasted Potato Salad with Creamy Dijon Viniagrette,2.1,1.1,Salads
+95,12.4,4.1,Watermelon Salad,3.0,7.1,Salads
+191,13.8,14.1,Potato Salad with Dill and Horseradish Aioli,3.0,1.7,Salads
+99,6.1,7.6,Summer Herb Salad,2.7,3.8,Salads
+126,16.1,6.7,Grilled Corn Salad with Lime Red Chili and Cotija,3.9,5.1,Salads
+120,3.3,11.3,Gluten Free Caesar Salad,2.3,1.7,Salads
+38,9.7,0.1,Cucumber Watermelon Lime Salad,0.6,7.9,Salads
+278,16.9,15.6,Tuscan Tortellini Salad,16.6,0.6,Salads
+47,7.1,0.4,Curried Cabbage and Carrot Slaw,4.7,3.6,Salads
+61,4.4,4.5,Sundried Tomato Mediterranean Zucchini Noodle Salad,1.8,2.7,Salads
+22,4.4,0.1,Cucumber Apple Salad,0.4,2.6,Salads
+88,8.2,5.8,Tomato Basil Layered Salad,1.7,3.5,Salads
+451,2.2,49.4,Greens with Homemade Paleo Ranch Dressing,2.2,0.3,Salads
+160,4.1,11.5,Vegan Tofu Egg Salad,12.8,0.1,Salads
+174,23.7,5.6,Greek Chickpea Salad,8.5,5.1,Salads
+145,27.2,1.8,Vegan Taco Meat Salad,6.1,4.5,Salads
+134,5.1,5.1,Low Fat Sonoma Chicken Salad,15.9,1.0,Salads
+88,12.0,4.1,Momofuku’s Roasted Brussel Sprouts,2.9,6.9,Salads
+98,5.0,5.8,Crab and Shrimp Louis,7.3,2.2,Salads
+42,3.8,2.9,Basic Tossed Salad,1.0,1.8,Salads
+55,5.4,3.0,Chopped Greek Salad with Creamy Yogurt Dressing,2.2,3.1,Salads
+85,9.7,5.6,Pineapple & Avocado Salad,0.7,6.1,Salads
+198,23.4,9.4,Chickpea Macaroni Salad,5.5,2.1,Salads
+127,10.1,8.0,Broccoli Salad with Peanut Sauce,6.8,4.1,Salads
+136,11.0,9.6,Simple Kale Salad,5.2,3.3,Salads
+182,4.4,16.2,Wilted Spinach Salad with Warm Feta Dressing,5.8,2.1,Salads
+119,8.6,5.7,Mediterranean Quinoa Salad,8.2,1.3,Salads
+82,3.9,5.1,Spicy tuna salad,6.8,0.9,Salads
+524,8.6,54.3,Sesame Tempura Green Beans with Soy Dipping Sauce,1.9,1.0,Salads
+66,12.5,1.2,Pearl Couscous Salad with Lemon Asparagus and Tomato,2.4,1.1,Salads
+131,12.4,7.9,Asian Noodle Salad,4.1,4.5,Salads
+56,5.7,3.0,Sugar Snap Pea and Cucumber Salad,2.3,0.7,Salads
+190,5.3,13.0,Beef Maltagliata with Arugula Radicchio and Ricotta,12.1,0.4,Salads
+207,29.7,6.7,Quinoa Salad,8.4,1.7,Salads
+84,5.7,7.2,Cucumber Tomato and Avocado Salad,1.1,1.7,Salads
+166,25.5,5.9,Rice Spring Onion and Feta Salad,4.5,9.7,Salads
+47,8.3,0.3,Curried Carrot Salad with Nonfat Yogurt,3.3,4.1,Salads
+66,4.3,5.4,Wilted Swiss Chard With Warm Piccata Vinaigrette,1.7,1.1,Salads
+92,7.2,6.8,Tomato and Cucumber Salad with Pita Bread and Za atar,1.5,1.8,Salads
+160,12.5,10.1,Green Pea Salad,7.0,4.1,Salads
+174,12.2,9.6,Loaded Chicken Taco Salad with Cilantro Lime Dressing,10.2,1.8,Salads
+67,6.0,4.8,Grain Free Tabbouleh Salad,1.9,1.7,Salads
+161,3.3,11.0,Grilled Steak Salad with Worcestershire Vinaigrette,12.0,1.6,Salads
+38,4.5,2.1,Easy Lemony Dilly Cucumber Salad,0.8,2.3,Salads
+126,2.5,12.6,Red Leaf Lettuce with Shallot Vinaigrette,1.2,0.6,Salads
+86,12.0,2.5,Red bean salad,4.1,1.8,Salads
+111,1.9,4.4,Halibut with Roasted Beets Beet Greens and Dill Orange Gremolata,15.2,1.1,Salads
+45,6.4,1.7,Spicy Sauteed Broccolini with Garlic,2.7,1.6,Salads
+96,15.2,2.2,Fruit and Granola Yogurt,4.5,9.3,Salads
+39,3.7,1.5,Avgolemono,2.5,0.5,Salads
+84,10.5,3.6,Asian Quinoa Salad,3.3,2.2,Salads
+143,29.1,0.9,Quick Vegetarian Spaghetti,5.3,3.0,Salads
+109,4.3,8.8,Heirloom Tomato Basil Mozzarella Salad,3.7,2.9,Salads
+109,9.0,7.5,Kale with Panfried Walnuts,4.9,2.2,Salads
+135,3.2,7.9,Calamari Olive Salad,12.3,0.2,Salads
+41,5.7,2.0,Simple Cabbage Salad,1.2,3.1,Salads
+91,8.3,4.9,Chickpea Salad,4.1,1.7,Salads
+147,10.0,10.5,Roasted Beet Pistachio and Feta Salad,4.6,6.1,Salads
+45,4.2,2.8,Balsamic Asparagus,2.1,2.2,Salads
+74,4.2,5.7,Greek salad,2.4,2.3,Salads
+276,8.6,26.8,Saut ed Kale,3.3,1.6,Salads
+229,24.7,14.0,Broccoli Slaw,4.0,16.1,Salads
+22,4.6,0.3,Sweet Corn Salad,0.9,2.5,Salads
+48,8.8,1.5,Asian Sesame Cucumber Salad,1.0,5.9,Salads
+76,9.0,4.2,Kale With Caramelized Onions and Garlic,2.5,0.9,Salads
+63,9.8,2.5,Quick Braised Red Cabbage and Apple,0.9,5.7,Salads
+242,2.5,19.2,Keto Taco Salad,14.5,0.8,Salads
+118,4.8,7.8,Tuna Salad,9.1,0.6,Salads
+117,3.3,8.0,Sauerkraut Keto Egg Salad,7.9,1.7,Salads
+90,11.4,2.6,Spiced Black Lentils with Yogurt and Mint,6.1,1.4,Salads
+139,8.2,7.3,Garden Pasta Salad,10.5,1.8,Salads
+225,2.1,18.4,Quick and Easy Low Carb Caprese Salad,12.9,0.6,Salads
+90,2.4,3.7,Balsamic Chicken Salad,11.9,1.1,Salads
+98,3.3,4.8,Tuna Mex Tuna Salad,11.7,0.9,Salads
+130,1.9,5.9,Chicken and Spinach Salad,16.7,0.9,Salads
+112,1.6,4.0,Cold Chicken Salad,16.5,0.7,Salads
+93,4.9,6.3,Salmon Salad,5.4,2.1,Salads
+128,1.7,6.1,Healthy Caesar Salad,16.0,0.8,Salads
+113,3.6,5.5,Tuna Avocado Salad,13.8,0.1,Salads
+28,5.3,0.2,Basic Mixed Greens Salad,2.1,0.3,Salads
+71,5.8,5.5,Cucumber Avocado Salad,1.3,1.7,Salads
+112,2.9,6.1,Balsamic Chicken Salad,12.3,0.9,Salads
+47,4.1,3.4,Lebanese Tomato and Onion Salad,0.8,2.6,Salads
+205,8.5,18.9,Mixed Greens with Cranberry Vinaigrette,0.8,6.0,Salads
+114,5.4,10.5,Eggplants a la Dawlish,0.9,3.1,Salads
+148,4.7,14.2,Asparagus Walnut Salad,1.9,2.3,Salads
+174,9.9,13.6,Four Bean Salad,4.5,1.2,Salads
+40,7.9,0.3,Mung Bean Salad,2.5,2.3,Salads
+69,4.9,5.1,Quick & Easy Vegan Caesar Salad,2.8,1.1,Salads
+205,23.2,10.2,Arugula Lentil Salad,7.4,6.7,Salads
+147,8.3,12.5,Fresh Herbed Avocado Salad,3.3,2.8,Salads
+43,6.4,1.3,Green Kale Salad,2.6,2.2,Salads
+61,6.6,4.0,Corn Tomato Avocado Salad,1.5,2.6,Salads
+50,3.2,1.5,Cottage Cheese Ham Salad,5.9,2.0,Salads
+116,17.8,4.6,Restaurant Style Potato Salad,1.7,3.7,Salads
+124,13.5,5.2,Lobster Salad,6.1,3.4,Salads
+105,8.9,7.9,Strawberry and Walnut Spinach Salad,3.9,3.7,Salads
+56,6.5,2.8,Thai Cucumber Salad,1.8,4.7,Salads
+177,5.5,17.1,Arugula Avocado Salad,3.0,1.5,Salads
+125,4.5,8.0,Greek Chicken Salad,9.1,1.8,Salads
+151,6.1,12.1,Yellow Bean Salad,7.8,1.8,Salads
+174,27.8,5.1,Curried Chickpea Salad,7.1,9.7,Salads
+112,8.3,8.0,Nutra Green Salad with Black Fig Dressing,2.9,2.5,Salads
+102,20.0,0.9,Black Bean Mango Salad,4.6,2.7,Salads
+75,4.5,6.4,Raw Cauliflower Tabouli,1.2,1.9,Salads
+115,20.3,3.4,Bulgur Salad with Cranberries,2.3,6.3,Salads
+174,5.3,16.2,Make Ahead Greek Salad in a Jar,3.1,1.8,Salads
+208,21.5,13.4,Green Bean and Avocado Summer Salad,3.4,8.0,Salads
+142,13.8,9.0,Warm Summer Fruit Salad,3.7,7.6,Salads
+94,4.2,5.2,Tangy Taco Salad,8.4,1.6,Salads
+134,9.3,11.0,Simple Avocado and Cranberry Salad,2.3,3.1,Salads
+139,6.8,11.6,BLT Salad with Creamy Chive Dressing,2.9,1.8,Salads
+56,5.9,3.6,Feta and Veggie Salad,2.7,2.7,Salads
+28,3.4,1.1,Spinach and Broccoli Salad,2.2,1.2,Salads
+117,10.1,7.8,Heirloom Apple Salad,3.1,5.7,Salads
+78,10.3,4.2,Goat cheese and Apple Salad,3.7,4.8,Salads
+142,14.0,7.7,Rosemary Chickpeas,5.9,0.3,Salads
+31,3.4,0.4,Spicy Summer Mushrooms,4.2,1.2,Salads
+55,10.9,0.8,Mung Bean Stew,1.4,1.2,Salads
+134,14.9,5.8,Couscous Salad with Shrimp and Mint,5.6,0.7,Salads
+41,7.3,0.6,Garbanzos with Fennel,2.3,2.2,Salads
+40,6.2,1.0,Sauerkraut with Apples,0.8,3.5,Salads
+75,11.4,3.6,Mexican Pineapple Salad,0.7,7.0,Salads
+59,4.1,4.5,Cucumber Mustard and Dill Salad,0.6,3.1,Salads
+40,3.5,2.8,Big Green Salad,1.1,1.6,Salads
+66,8.2,3.5,Carrots and Brussels Sprouts,1.9,3.1,Salads
+213,11.1,18.4,Arugula and Radicchio with Feta and Dates,3.1,8.0,Salads
+62,6.9,3.6,Coleslaw,1.0,3.8,Salads
+70,6.5,4.6,Sauteed Broccolini with Garlic,2.7,1.6,Salads
+104,6.4,7.7,Pear Spinach Salad,3.6,3.7,Salads
+44,5.4,2.2,Grilled Rainbow Chard with Fava Beans and Oregano,2.5,2.0,Salads
+70,8.6,4.0,Roasted Fennel Carrots and Shallots,1.3,4.3,Salads
+113,6.6,9.6,String Bean & Arugula Salad,1.8,0.2,Salads
+47,5.4,2.0,Zucchini and Snow Pea Salad,2.3,2.4,Salads
+169,3.4,17.1,Red Leaf Radish and Pine Nut Salad,2.0,1.1,Salads
+264,9.3,21.6,Raw Mustard Greens Salad with Gruyre and Anchovy Croutons,9.3,1.5,Salads
+137,7.4,11.8,Green Bean and Hazelnut Salad,2.5,3.3,Salads
+123,6.4,10.4,Shaved Fennel Salad Recipe,2.4,3.3,Salads
+31,3.3,1.6,Provencal Endive Salad,1.7,0.2,Salads
+145,8.5,10.3,Green Bean Salad with Basil Balsamic and Parmesan,5.8,4.1,Salads
+78,19.3,0.4,Fig and Carrot Slaw,1.1,13.4,Salads
+280,36.3,10.8,Orzo Salad with Celery Radishes and Dill,8.6,1.6,Salads
+48,4.9,3.0,Watercress and Frise Salad with Green Apple and Celery Root,1.2,2.3,Salads
+195,3.9,17.7,Radishes with Tarragon Beurre Blanc,0.8,1.8,Salads
+82,14.4,2.0,Red Flannel Hash,1.8,2.1,Salads
+107,9.4,7.3,Brussels Sprouts with Chestnuts,2.5,2.4,Salads
+100,5.3,8.6,Frise Radicchio and Fennel Salad with Mustard Vinaigrette,1.9,1.8,Salads
+98,13.1,3.8,Kale White Bean and Pesto Salad,4.4,0.4,Salads
+112,12.5,5.3,Cucumber Quinoa Salad with Feta,4.2,1.5,Salads
+267,5.2,22.4,Keto Avocado Pepperoni Salad,12.1,0.4,Salads
+154,12.6,5.4,Greek Yogurt Chicken Salad,14.4,2.1,Salads
+77,14.8,2.2,Nutribullet Raw Slaw,1.4,8.7,Salads
+55,7.2,2.4,Watermelon Feta & Mint Salad,2.1,5.9,Salads
+152,8.2,11.9,Cucumber Noodles with Peanut Sauce,6.1,3.8,Salads
+137,17.0,5.6,Maple Vinaigrette Couscous Salad,5.0,3.1,Salads
+127,7.5,10.6,Balsamic Green Beans,1.5,4.4,Salads
+131,2.6,13.1,Green salad,1.4,0.8,Salads
+173,20.2,7.8,Marinated Lentil Salad,7.2,2.2,Salads
+83,3.1,2.6,Ceviche,11.9,0.9,Salads
+96,4.1,6.8,Blue cheese & veggie salad,5.1,2.4,Salads
+69,7.4,4.1,Ginger Garlic Green Beans,2.3,2.9,Salads
+247,20.0,13.6,Griddled Chicken with Quinoa Greek Salad,11.1,1.1,Salads
+121,6.3,10.9,Spinach Salad with Blackberries,1.5,2.4,Salads
+74,4.8,5.2,Cucumber Avocado Caprese Salad,3.0,2.1,Salads
+78,16.6,0.3,Cucumber Noodle Soba Salad,3.2,2.8,Salads
+79,10.9,3.9,Roasted Parsnip and Zucchini,1.2,3.6,Salads
+163,7.8,8.5,Smoked Chicken and Cranberry Salad,14.0,5.3,Salads
+229,18.8,17.5,Kale with Garlic and Cranberries,3.0,11.3,Salads
+88,10.6,4.0,Chick Peas and Swiss Chard,3.3,2.7,Salads
+56,6.4,3.2,Spicy Napa Cabbage Slaw with Cilantro Dressing,1.2,3.7,Salads
+191,5.3,17.3,Avocado Goat Cheese Salad with Lime Dressing,5.1,0.8,Salads
+106,12.4,6.5,Butternut Squash with Pumpkin Seed Pesto,1.5,2.0,Salads
+46,9.0,0.5,Salsa salad,2.4,2.0,Salads
+65,6.8,3.8,Sweet Cucumber and Radish Salad,0.5,6.1,Salads
+58,6.4,2.9,Asparagus Peas and Basil Piselli con Asparagi e Basilico,2.9,2.7,Salads
+87,10.7,5.1,Spiralized Apple and Cabbage Slaw,0.9,7.6,Salads
+117,14.1,2.7,Tuna & White Bean Salad,9.9,0.4,Salads
+84,13.5,1.1,Chickpea and Veggie Salad,5.7,4.2,Salads
+154,21.6,7.6,Spinach and Apple Salad,3.4,14.6,Salads
+69,9.2,1.4,Tuna Sweetcorn Salad,6.8,3.4,Salads
+103,6.4,5.2,Avocado Apple and Chicken Salad,8.4,3.4,Salads
+125,2.2,6.6,Asian Chicken Salad,13.8,0.8,Salads
+111,17.6,1.5,Asian Basil Beef and Mango Noodle Salad,7.2,5.7,Salads
+102,10.0,6.5,Grape Walnut and Romaine Salad,2.6,7.1,Salads
+86,6.5,6.9,Avocado Salad,1.7,2.2,Salads
+35,3.8,1.1,Vegan Feta Cheeze & Tomato,2.9,1.6,Salads
+67,3.8,5.9,Slow roasted tomatoes,0.9,2.5,Salads
+116,9.5,7.1,Caprese Corn Lunch Salad,5.8,2.5,Salads
+89,9.7,4.3,Easy Daily Spinach Salad,3.9,4.3,Salads
+70,6.1,1.9,Tuna Artichoke and Red Pepper Salad,8.3,1.1,Salads
+63,15.9,0.3,Mango Strawberry Salad,0.8,14.1,Salads
+48,6.8,2.2,Sauteed Green Beans,1.8,3.2,Salads
+97,15.1,0.4,White Bean & Tuna Salad,8.8,0.7,Salads
+81,4.0,3.2,Chicken Spinach and Strawberry Salad,9.2,2.0,Salads
+146,3.4,8.8,Thai Pork Salad,12.7,1.5,Salads
+79,10.2,2.4,Taco Salad Bowl,4.9,1.4,Salads
+51,4.2,3.5,Red Pepper & Tomato Salad,0.8,2.8,Salads
+81,7.5,4.9,Vegan Caesar Salad,3.3,1.0,Salads
+68,4.9,5.2,Summer Pepper and Tomato Salad,0.8,3.6,Salads
+75,2.1,3.7,Spinach Lemon and Shrimp Salad,8.8,0.2,Salads
+151,7.9,13.4,Bachelor Brussel Sprouts,2.9,1.9,Salads
+41,3.1,1.4,Cool Summer Cucumber Chicken and Tomato Toss,4.4,1.8,Salads
+97,2.7,5.6,Tuna Spinach Salad,9.4,1.4,Salads
+42,2.5,0.6,Tuna Stuffed Pepper,7.0,1.6,Salads
+120,2.5,6.4,Chicken caesar salad,12.8,1.5,Salads
